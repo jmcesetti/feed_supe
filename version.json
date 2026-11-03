@@ -1,7 +1,7 @@
 {
-  "version": "03.11.2026-1345",
-  "sha256": "c3e8009490c473ac767f71128b9a004e011953b30482ef0cbb7573dcb4fcdad4",
-  "tamano": 3402482,
-  "fecha": "2026-11-03T13:45:47",
-  "notas": "Fechas dd/mm/aaaa en panel y log; el programa y el panel ya no se escriben descifrados en disco."
+  "version": "03.11.2026-1713",
+  "sha256": "496595defb0d696a79b793229aaeb5d5fedc405fe2cb5904bbebaf3ab8e5b81c",
+  "size": 3402482,
+  "date": "2026-11-03T17:13:59",
+  "notes": "version.json con claves en ingles (size, date, notes)"
 }
