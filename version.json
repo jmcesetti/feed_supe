@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1222",
-  "sha256": "68a206676c85085ed091f8e72c89e090a19f6585c1a8283590fc89bce5ade7c0",
-  "size": 3408765,
-  "date": "2026-11-04T12:22:57",
-  "notes": "Tramos a SUPE+ con filtros y hora inicio/fin, vista Tramos|Log en pestanas, regla Lavadero (SUPE_CAR_WASH), fix del chip de filtro."
+  "version": "04.11.2026-1234",
+  "sha256": "5eb83b3d1dd60d6b66aa3f63cd92d0077b54dbbfa8947395b4fca4c832d46c04",
+  "size": 3409493,
+  "date": "2026-11-04T12:34:22",
+  "notes": "Panel: barra de progreso y auto-refresh al terminar de actualizar."
 }
