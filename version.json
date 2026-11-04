@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1442",
-  "sha256": "bfb82ac0099aa3d62188c75ce81d31465d40a28759d5614c1b889a4ba838c931",
+  "version": "04.11.2026-1617",
+  "sha256": "79e99be2e64478a647c45ca3bd6e11c6bff63f3b63819611d8255ef161604611",
   "size": 3409807,
-  "date": "2026-11-04T14:42:26",
-  "notes": "Renombrado a Feed_Cesetti (Geotab) en los textos visibles del panel y el login."
+  "date": "2026-11-04T16:17:59",
+  "notes": "Version de prueba del flujo de actualizacion (barra de progreso y auto-refresh)."
 }
