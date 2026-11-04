@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1141",
-  "sha256": "5154bec211bc90eb306fccbc834be717463b9d59f9fb0ebfac6be65b5b58f559",
-  "size": 3406572,
-  "date": "2026-11-04T11:41:49",
-  "notes": "Panel: tooltips, colores semanticos, orden recibido-estado, filtro de log por evento, selector de dia y animaciones."
+  "version": "04.11.2026-1222",
+  "sha256": "68a206676c85085ed091f8e72c89e090a19f6585c1a8283590fc89bce5ade7c0",
+  "size": 3408765,
+  "date": "2026-11-04T12:22:57",
+  "notes": "Tramos a SUPE+ con filtros y hora inicio/fin, vista Tramos|Log en pestanas, regla Lavadero (SUPE_CAR_WASH), fix del chip de filtro."
 }
