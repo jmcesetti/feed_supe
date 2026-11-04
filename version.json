@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1240",
-  "sha256": "8d73a1b461e8f0030861ca4d8a753d0cbb62ecec4aae6e801a07ea465b11bdd7",
-  "size": 3409488,
-  "date": "2026-11-04T12:41:00",
-  "notes": "Panel: etiquetas renombradas a Geocercas SUPE, Activos y Conductores."
+  "version": "04.11.2026-1324",
+  "sha256": "f3276337e5ddb5cfc05a99ebfbbf8e7535d1822a31608474853421a363bcdb55",
+  "size": 3409798,
+  "date": "2026-11-04T13:24:36",
+  "notes": "Errores filtrables, contador-filtro salta a la pestana del log, aviso Reiniciado temporal, umbral de demoras documentado en 15 min."
 }
