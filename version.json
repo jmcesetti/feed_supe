@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1234",
-  "sha256": "5eb83b3d1dd60d6b66aa3f63cd92d0077b54dbbfa8947395b4fca4c832d46c04",
-  "size": 3409493,
-  "date": "2026-11-04T12:34:22",
-  "notes": "Panel: barra de progreso y auto-refresh al terminar de actualizar."
+  "version": "04.11.2026-1240",
+  "sha256": "8d73a1b461e8f0030861ca4d8a753d0cbb62ecec4aae6e801a07ea465b11bdd7",
+  "size": 3409488,
+  "date": "2026-11-04T12:41:00",
+  "notes": "Panel: etiquetas renombradas a Geocercas SUPE, Activos y Conductores."
 }
