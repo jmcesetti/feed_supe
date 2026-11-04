@@ -1,7 +1,7 @@
 {
-  "version": "03.11.2026-1713",
-  "sha256": "496595defb0d696a79b793229aaeb5d5fedc405fe2cb5904bbebaf3ab8e5b81c",
-  "size": 3402482,
-  "date": "2026-11-03T17:13:59",
-  "notes": "version.json con claves en ingles (size, date, notes)"
+  "version": "04.11.2026-1141",
+  "sha256": "5154bec211bc90eb306fccbc834be717463b9d59f9fb0ebfac6be65b5b58f559",
+  "size": 3406572,
+  "date": "2026-11-04T11:41:49",
+  "notes": "Panel: tooltips, colores semanticos, orden recibido-estado, filtro de log por evento, selector de dia y animaciones."
 }
