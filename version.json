@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1324",
-  "sha256": "f3276337e5ddb5cfc05a99ebfbbf8e7535d1822a31608474853421a363bcdb55",
-  "size": 3409798,
-  "date": "2026-11-04T13:24:36",
-  "notes": "Errores filtrables, contador-filtro salta a la pestana del log, aviso Reiniciado temporal, umbral de demoras documentado en 15 min."
+  "version": "04.11.2026-1442",
+  "sha256": "bfb82ac0099aa3d62188c75ce81d31465d40a28759d5614c1b889a4ba838c931",
+  "size": 3409807,
+  "date": "2026-11-04T14:42:26",
+  "notes": "Renombrado a Feed_Cesetti (Geotab) en los textos visibles del panel y el login."
 }
