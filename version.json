@@ -1,7 +1,7 @@
 {
-  "version": "06.11.2026-1415",
-  "sha256": "824ed2305f032247a51906d2ddd00f68a9b8b0c6c0a22c22832b50f083ae58f7",
-  "size": 3414629,
-  "date": "2026-11-06T14:15:17",
-  "notes": "Opciones de arranque (postgres/supe/dry-run/heartbeat) con switches en el panel; heartbeat cada 5 min a un Gist con estado por fuente y recuento de errores; boton Vaciar log con confirmacion."
+  "version": "06.11.2026-1431",
+  "sha256": "67ee4dde1ad4ec94de311119d164b4620655a00fcb8e775f8c96b308203b1933",
+  "size": 3415348,
+  "date": "2026-11-06T14:31:06",
+  "notes": "Heartbeat: primer latido a los 60s del arranque. Log: buscador en vivo y boton Copiar (copia las lineas visibles)."
 }
