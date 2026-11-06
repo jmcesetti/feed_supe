@@ -1,7 +1,7 @@
 {
-  "version": "04.11.2026-1617",
-  "sha256": "79e99be2e64478a647c45ca3bd6e11c6bff63f3b63819611d8255ef161604611",
-  "size": 3409807,
-  "date": "2026-11-04T16:17:59",
-  "notes": "Version de prueba del flujo de actualizacion (barra de progreso y auto-refresh)."
+  "version": "06.11.2026-1157",
+  "sha256": "0099ef532333421af1a9e136a2b08ec28e7684d848e4717845f094a04a1b899b",
+  "size": 3410596,
+  "date": "2026-11-06T11:57:39",
+  "notes": "Operativos de carga/descarga se envian solo al cerrar (EXIT); en curso solo la Espera. Reglas de control mantienen operativo en curso. ENTER repetidos a la misma geocerca se pegan. Evita tramos duplicados ->en_curso."
 }
