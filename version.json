@@ -1,7 +1,7 @@
 {
-  "version": "06.11.2026-1157",
-  "sha256": "0099ef532333421af1a9e136a2b08ec28e7684d848e4717845f094a04a1b899b",
-  "size": 3410596,
-  "date": "2026-11-06T11:57:39",
-  "notes": "Operativos de carga/descarga se envian solo al cerrar (EXIT); en curso solo la Espera. Reglas de control mantienen operativo en curso. ENTER repetidos a la misma geocerca se pegan. Evita tramos duplicados ->en_curso."
+  "version": "06.11.2026-1415",
+  "sha256": "824ed2305f032247a51906d2ddd00f68a9b8b0c6c0a22c22832b50f083ae58f7",
+  "size": 3414629,
+  "date": "2026-11-06T14:15:17",
+  "notes": "Opciones de arranque (postgres/supe/dry-run/heartbeat) con switches en el panel; heartbeat cada 5 min a un Gist con estado por fuente y recuento de errores; boton Vaciar log con confirmacion."
 }
