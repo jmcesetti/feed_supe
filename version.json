@@ -1,7 +1,7 @@
 {
-  "version": "10.11.2026-1133",
-  "sha256": "20af42690ca8ddf0e2342d4a6dea5493773427fb5bec61f4a676623f915b1305",
-  "size": 3415792,
-  "date": "2026-11-10T11:33:46",
-  "notes": "Geotab: 'corriendo' refleja que el feed este vivo (ultimo poll a la API, vacio incluido) y no solo la llegada de eventos; nuevo campo ultimo_poll en el heartbeat"
+  "version": "10.11.2026-1238",
+  "sha256": "fe96a4dbc4fa29ca52c23399189f1b58eac9a1f015de88622ee5114f87ec2038",
+  "size": 3415813,
+  "date": "2026-11-10T12:38:41",
+  "notes": "Heartbeat: claves del JSON de estado en ingles (sources/running/enabled/last_data/lag_seconds/last_poll/errors/segments)"
 }
