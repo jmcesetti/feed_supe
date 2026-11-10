@@ -1,7 +1,7 @@
 {
-  "version": "10.11.2026-1238",
-  "sha256": "fe96a4dbc4fa29ca52c23399189f1b58eac9a1f015de88622ee5114f87ec2038",
-  "size": 3415813,
-  "date": "2026-11-10T12:38:41",
-  "notes": "Heartbeat: claves del JSON de estado en ingles (sources/running/enabled/last_data/lag_seconds/last_poll/errors/segments)"
+  "version": "10.11.2026-1304",
+  "sha256": "26b4bc7eb0af763ee9b0afcba56fc4f7497e3322ac431cb8304bac569ca41d2c",
+  "size": 3415817,
+  "date": "2026-11-10T13:04:25",
+  "notes": "Heartbeat: formato de estado ajustado (orden de campos; errors por fuente geotab/postgres; segments new/updates/sent)"
 }
