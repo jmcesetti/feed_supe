@@ -1,7 +1,7 @@
 {
-  "version": "06.11.2026-1431",
-  "sha256": "67ee4dde1ad4ec94de311119d164b4620655a00fcb8e775f8c96b308203b1933",
-  "size": 3415348,
-  "date": "2026-11-06T14:31:06",
-  "notes": "Heartbeat: primer latido a los 60s del arranque. Log: buscador en vivo y boton Copiar (copia las lineas visibles)."
+  "version": "10.11.2026-1133",
+  "sha256": "20af42690ca8ddf0e2342d4a6dea5493773427fb5bec61f4a676623f915b1305",
+  "size": 3415792,
+  "date": "2026-11-10T11:33:46",
+  "notes": "Geotab: 'corriendo' refleja que el feed este vivo (ultimo poll a la API, vacio incluido) y no solo la llegada de eventos; nuevo campo ultimo_poll en el heartbeat"
 }
