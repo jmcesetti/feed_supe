@@ -1,7 +1,7 @@
 {
-  "version": "18.11.2026-1124",
-  "sha256": "df459d878bebb7ba7dc638de29032e4601b3591e2465a029ccf89de1a36617d8",
-  "size": 3418687,
-  "date": "2026-11-18T11:24:35",
-  "notes": "Logs: menos ruido y controles parejos. Las respuestas OK de SUPE (una por tramo) pasan a Debug para no saturar el log. El checkbox Seguir el final ahora respeta tu posicion al destildarlo. Controles de la vista de logs alineados y de tamano uniforme; buscador mas compacto."
+  "version": "18.11.2026-1142",
+  "sha256": "8bfa67ad0671b0adec0c8b0da62578b940c7d2c18098fd1b4ca402fcd3a46b8d",
+  "size": 3420447,
+  "date": "2026-11-18T11:42:16",
+  "notes": "Panel: rediseno visual (estilo propio, bordes filosos, acentos neon, tipografia Inter/JetBrains Mono) y modo claro/oscuro con boton sol/luna que recuerda la eleccion."
 }
