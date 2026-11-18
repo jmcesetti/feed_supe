@@ -1,7 +1,7 @@
 {
-  "version": "18.11.2026-1106",
-  "sha256": "39d8613973187769863b991bb4588887b0fdd56506ac5dc8ba7c5159e8abf70f",
-  "size": 3418316,
-  "date": "2026-11-18T11:06:32",
-  "notes": "Logs: nivel ajustable y busqueda en todo el dia. El feed guarda todo el detalle (DEBUG); el panel muestra Info por defecto y permite cambiar a Debug/Avisos/Errores sin reiniciar. Buscador que recorre el archivo completo del dia; filtro en vivo sobre lo visible; boton para abrir el log completo. Resumen de contadores cada 30 min. Dias anteriores comprimidos."
+  "version": "18.11.2026-1124",
+  "sha256": "df459d878bebb7ba7dc638de29032e4601b3591e2465a029ccf89de1a36617d8",
+  "size": 3418687,
+  "date": "2026-11-18T11:24:35",
+  "notes": "Logs: menos ruido y controles parejos. Las respuestas OK de SUPE (una por tramo) pasan a Debug para no saturar el log. El checkbox Seguir el final ahora respeta tu posicion al destildarlo. Controles de la vista de logs alineados y de tamano uniforme; buscador mas compacto."
 }
