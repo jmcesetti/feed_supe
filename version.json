@@ -1,8 +1,8 @@
 {
-  "version": "24.11.2026-1311",
-  "sha256": "d28d1189becc7eaed16306e8eac8cc06ed2aa0b1c18c7097cf41779aacd6dbcf",
-  "size": 3420558,
-  "date": "2026-11-24T13:11:54",
-  "notes": "Lanzador 1.1.0: autoactualizacion del .exe desde el repo (cifrado)",
+  "version": "24.11.2026-1335",
+  "sha256": "bc2f2fc294e97b0460e09f636d9d8b5a6129109405e0acb33723658c8df23698",
+  "size": 3421811,
+  "date": "2026-11-24T13:36:06",
+  "notes": "Feed: visitas y Carreteos sin novedades en 12 h salen de la espera (el Carreteo se manda 'En viaje').",
   "lanzador": "1.1.0"
 }
