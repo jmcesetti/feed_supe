@@ -1,7 +1,8 @@
 {
-  "version": "18.11.2026-1142",
-  "sha256": "8bfa67ad0671b0adec0c8b0da62578b940c7d2c18098fd1b4ca402fcd3a46b8d",
-  "size": 3420447,
-  "date": "2026-11-18T11:42:16",
-  "notes": "Panel: rediseno visual (estilo propio, bordes filosos, acentos neon, tipografia Inter/JetBrains Mono) y modo claro/oscuro con boton sol/luna que recuerda la eleccion."
+  "version": "24.11.2026-1311",
+  "sha256": "d28d1189becc7eaed16306e8eac8cc06ed2aa0b1c18c7097cf41779aacd6dbcf",
+  "size": 3420558,
+  "date": "2026-11-24T13:11:54",
+  "notes": "Lanzador 1.1.0: autoactualizacion del .exe desde el repo (cifrado)",
+  "lanzador": "1.1.0"
 }
