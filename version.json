@@ -1,8 +1,8 @@
 {
-  "version": "26.11.2026-1212",
-  "sha256": "9bb5fc3d4c5790d3a25f907df2527b3d9ba7a65318b528d63a1c5d5b69449ba0",
-  "size": 3422554,
-  "date": "2026-11-26T12:13:11",
-  "notes": "Nueva regla SUPE_BASE: tramo Base -> Espera sin Tareas",
-  "lanzador": "1.2.0"
+  "version": "26.11.2026-1252",
+  "sha256": "15037c16b30deca091b2dd927a68097e3bc76afa2ae853ad992c97763f4fb488",
+  "size": 3423958,
+  "date": "2026-11-26T12:53:07",
+  "notes": "Descartar eventos anteriores a la fecha de reinicio",
+  "lanzador": null
 }
