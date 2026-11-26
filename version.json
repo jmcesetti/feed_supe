@@ -1,8 +1,8 @@
 {
-  "version": "24.11.2026-1644",
-  "sha256": "0e03a7181e4679c7bbe891653da9fc480a0ccc1506948fffe2892de5b0ebf810",
-  "size": 3422494,
-  "date": "2026-11-24T16:44:40",
-  "notes": "",
+  "version": "26.11.2026-1212",
+  "sha256": "9bb5fc3d4c5790d3a25f907df2527b3d9ba7a65318b528d63a1c5d5b69449ba0",
+  "size": 3422554,
+  "date": "2026-11-26T12:13:11",
+  "notes": "Nueva regla SUPE_BASE: tramo Base -> Espera sin Tareas",
   "lanzador": "1.2.0"
 }
